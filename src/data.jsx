@@ -1,0 +1,42 @@
+export default [
+  {
+    id: 1,
+    name: "Inversión Inicial",
+    description: "initialInvestment",
+    icon: "",
+    type_class: "",
+    value: null,
+  },
+  {
+    id: 2,
+    name: "Aportación Anual",
+    description: "annualContribution",
+    icon: "",
+    type_class: "",
+    value: null,
+  },
+  {
+    id: 3,
+    name: "Incremento a Aportación Anual",
+    description: "investmentIncrease",
+    icon: "",
+    type_class: "",
+    value: null,
+  },
+  {
+    id: 4,
+    name: "Años de inversión",
+    description: "investmentYears",
+    icon: "",
+    type_class: "",
+    value: null,
+  },
+  {
+    id: 5,
+    name: "Rendimiento de Inversión",
+    description: "investmentReturn",
+    icon: "",
+    type_class: "",
+    value: null,
+  },
+];
